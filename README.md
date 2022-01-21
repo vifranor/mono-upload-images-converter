@@ -37,7 +37,7 @@ imageConvert(value.target.files, 750, 450, "image/jpeg", true)
 ## How to use, example:
 
 ```
-import { imageConverter } from "upload-images-converter";
+import { imageConvert } from "mono-upload-images-converter";
 
 // ... code before
 <input
